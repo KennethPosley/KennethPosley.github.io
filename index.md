@@ -2,19 +2,19 @@
 
 ### Table of Contents
 
-- Self reflection
-- Code Review
-- 3D Triangle Enhancement
-- Cruise Passenger Enhancement
-- Animal Shelter Enhancment
+- [Self reflection](#self-reflection)
+- [Code Review](#code-review)
+- [3D Triangle Enhancement](#3D-Triangle-Enhancement)
+- [Cruise Passenger Enhancement](#Cruise-Passenger-Enhancement)
+- [Animal Shelter Enhancment](#Animal-Shelter-Enhancment)
 
-**Self reflection**
+### Self reflection
  
  
  When I decided to get my computer science degree back in 2017. I knew it was going to be a very rewarding journey to say the least. The program as a whole has taught me everything that I need to be successful in this field. Capstone has been pushed to say interesting to be able to get through Unscathed and in one piece. I feel as if my knowledge in python database management has grown immensely throughout my program of study. It's really been a combination of the classes that catered to those particular skills as well as practicing and developing things on my own to really hone in the product that I present which is myself. Throughout the milestones for my computer science Capstone I think of these particular choices in mind for a test to show me weaknesses and things that I can improve on a daily basis whe, whether it be personally or. Professionally. The artifacts that I have chosen were to enhance a 3-D triangle with scenic movement using camera and lighting implement mentation. The next artifact displays my ability to use object oriented programming through the passenger classroom from Mako cruise ship application. The last and final artifact shows my ability to be able to use the database application mongo DB along with python to create an animal shelter application that intakes a variety of animals based upon the animals age animals birthdate the gender of the animal as well as different system features that help the in user manage the animals that come into the shelter for this application.
  
  
-**3D Triangle Enhancement**
+ ###3D Triangle Enhancement
 
 
 **Briefly describe the artifact. What is it? When was it created?**
@@ -33,7 +33,7 @@ I do think I am meeting my planned enhancement objectives though I do understand
 In the process of enhancing the original artifact I had difficulties with implementing some of the library‘s one, in particular, was one of the math libraries that is needed to be able to code the vertices, as well as I, found myself taking more time on the enhancement than I originally anticipated it did prove yourself to be certainly a task but I managed to get it done. Some things I learned while doing this enhancement for the software engineering and design element of the final project were brushing up on C++ and learning how to use the OpenGL API all over again. Whilst taking the class Learning the API was definitely one of the biggest learning curves that I had to overcome and even now in writing this by I’m still pretty rusty but I think it was a great experience and I think that it’s going to be integral in improving my development skills overall that’s going to translate into my personal life as well as professional life.
 
 
-**Cruise Passenger Enhancement**
+### Cruise Passenger Enhancement
 
 
 **Briefly describe the artifact. What is it? When was it created**
@@ -54,7 +54,7 @@ Throughout the process of enhancing effect cleaned up to go to bed as well as ho
 
 
 
-**Animal Shelter Enhancment**
+### Animal Shelter Enhancment
 
 
 **Briefly describe the artifact. What is it? When was it created?**
