@@ -14,7 +14,7 @@
  When I decided to get my computer science degree back in 2017. I knew it was going to be a very rewarding journey to say the least. The program as a whole has taught me everything that I need to be successful in this field. Capstone has been pushed to say interesting to be able to get through Unscathed and in one piece. I feel as if my knowledge in python database management has grown immensely throughout my program of study. It's really been a combination of the classes that catered to those particular skills as well as practicing and developing things on my own to really hone in the product that I present which is myself. Throughout the milestones for my computer science Capstone I think of these particular choices in mind for a test to show me weaknesses and things that I can improve on a daily basis whe, whether it be personally or. Professionally. The artifacts that I have chosen were to enhance a 3-D triangle with scenic movement using camera and lighting implement mentation. The next artifact displays my ability to use object oriented programming through the passenger classroom from Mako cruise ship application. The last and final artifact shows my ability to be able to use the database application mongo DB along with python to create an animal shelter application that intakes a variety of animals based upon the animals age animals birthdate the gender of the animal as well as different system features that help the in user manage the animals that come into the shelter for this application.
  
  
- ###3D Triangle Enhancement
+ ### 3D Triangle Enhancement
 
 
 **Briefly describe the artifact. What is it? When was it created?**
